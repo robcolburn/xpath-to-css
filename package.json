@@ -7,6 +7,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "bin": {
+    "xpathToCSS": "./shell.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jonathanp/xpath-to-css.git"
